@@ -1,3 +1,3 @@
 # Python
 
-存放Python作业及项目
+Python课程项目
